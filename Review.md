@@ -1,7 +1,7 @@
 # Review Questions
 
 ## What is Node.js?
-
+*Node.js is an async JavaScript runtime designed to build scalable network applications
 ## What is Express?
 
 ## Mention two parts of Express that you learned about this week.
